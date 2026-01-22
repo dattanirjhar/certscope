@@ -38,11 +38,9 @@ controls.
 
 ```bash
 sudo apt install masscan
-
-
+```
 ### Python Env
-```
-```
+```bash
 python3 -m venv certscope-env
 source certscope-env/bin/activate
 pip install pyopenssl python-masscan
