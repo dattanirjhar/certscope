@@ -46,7 +46,7 @@ source certscope-env/bin/activate
 pip install pyopenssl python-masscan
 ```
 
-##NOTE
+## NOTE
 I made this tool as a fork of the popular tool sslScrape. This tool was made using GenAI's help.
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY**
 ```
